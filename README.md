@@ -1,6 +1,6 @@
 # ✈️ Flight Disruption Rebooking Optimizer
 
-**Live demo:** _add your Streamlit Cloud link here after deploying_
+**Live demo:** https://flightdisruptionoptimizer-npzbdp3jkbnrj6dwbtnxfz.streamlit.app/
 
 An end-to-end system that automatically reaccommodates passengers after a
 flight disruption (delay/cancellation) — combining **machine learning**
